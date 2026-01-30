@@ -1,16 +1,16 @@
 {
-  "watch_settings": {
-    "brand_name": "SAGAR",
-    "digital_clock": {
-      "font_size": "2.2vh",
-      "font_family": "Orbitron",
-      "format": "12-hour (AM/PM)",
-      "box_visible": false
-    },
-    "labels": {
-      "quartz_label": "QUARTZ",
-      "quartz_color": "maroon"
-    },
-    "offline_ready": true
-  }
+  "short_name": "SagarWatch",
+  "name": "Sagar Grand Royal Watch",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3103/3103184.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#bf953f"
 }
