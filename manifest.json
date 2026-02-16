@@ -1,16 +1,20 @@
 {
-  "short_name": "H-Watch",
-  "name": "Sagar Grand Royal Watch",
+  "name": "Sagar Grand Royal",
+  "short_name": "Sagar Royal",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#bf953f",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/3103/3103184.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "1000047883-removebg-preview.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "1000047883-removebg-preview.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
-  ],
-  "start_url": "index.html",
-  "background_color": "#000000",
-  "display": "standalone",
-  "scope": "./",
-  "theme_color": "#bf953f"
+  ]
 }
