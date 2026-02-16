@@ -1,4 +1,4 @@
-const cacheName = 'sagar-watch-v3';
+const cacheName = 'sagar-watch-v3.1';
 const assets = ['./', './index.html'];
 
 self.addEventListener('install', evt => {
